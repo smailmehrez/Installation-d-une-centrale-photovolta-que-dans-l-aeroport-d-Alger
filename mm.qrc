@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>padlock.png</file>
+    <file>pro.png</file>
+    <file>Sans titre.png</file>
+  </qresource>
+</RCC>
